@@ -1,5 +1,7 @@
+import GenerateUser from "./components/GenerateUser";
+
 function App() {
-  return <div>openmind</div>;
+  return <GenerateUser />;
 }
 
 export default App;
